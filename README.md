@@ -10,3 +10,5 @@ The work was inspired by the learning resources from Milos Makes Mapes and HyRiv
 
 ![image alt](https://github.com/Rafiul-Git/Relative-Elevation-Model/blob/main/image/3d-snake-river.png?raw=true)
 
+![image alt]([https://github.com/Rafiul-Git/Relative-Elevation-Model/blob/main/image/3d-snake-river.png?raw=true](https://github.com/Rafiul-Git/Relative-Elevation-Model/blob/main/image/REM.png?raw=true))
+
