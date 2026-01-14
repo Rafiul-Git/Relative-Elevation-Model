@@ -6,5 +6,5 @@ The reference surface used in REM generation is commonly based on hydrological f
 
 REMs are widely applied in geomorphology, hydrology, floodplain mapping, and environmental modeling, where relative height above drainage networks is often more meaningful than absolute elevation. They are especially useful in low-relief landscapes, flood-prone regions, and alluvial environments, where small elevation differences can have significant hydrological and ecological implications.
 
-!(images/3d-snake-river.png)
+![REM](images/3d-snake-river.png)
 
